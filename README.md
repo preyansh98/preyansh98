@@ -7,4 +7,4 @@
 - Incoming Software Engineer Intern @microsoft
 - Software Engineering Student @McGill University
 - Experienced with web/app development
-- ~~NLP Enthusiast!~~
+- ML Enthusiast (sometimes :monocle_face:)
