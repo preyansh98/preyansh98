@@ -4,6 +4,5 @@
 
 ### I am Preyansh Kaushik
 - Software Engineer @microsoft
-- Bachelor of Software Engineering from @McGill University
+- Studied Software Engineering @ McGill University
 - Experienced with web/app development
-- ML Enthusiast (sometimes :monocle_face:)
